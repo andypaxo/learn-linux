@@ -4,4 +4,4 @@ For ease and speed, maybe TurnKey in Virtual Box (and because I like apt)
 
 install sudo through apt-get
 
-create a non-root user and give sudo
+create a non-root user and give sudo (adduser, usermod, logout)
